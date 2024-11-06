@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Futura;
+    src: url(/futura\ medium\ bt.woff2);
+}
+form{
+    font-family: Futura;
+    font-size: 5vh;
+}
